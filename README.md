@@ -11,3 +11,6 @@ Obvious tips -
 - You are free to fork this as long as you credit me
 
 If you want to contact me hit me up at Syskey#2510 and if you want to donate to me, throw me some bitcoin at 1AdfMYWzsaQtZcq1FTymYATkFQCUanME27
+
+UI PREVIEW
+https://cdn.discordapp.com/attachments/1052184492653150209/1115758911593660516/L5SMJl6.png
