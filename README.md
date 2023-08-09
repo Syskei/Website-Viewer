@@ -9,8 +9,3 @@ Obvious tips -
 - This will drain some Ram as it is opening and closing windows of a chromium browser which typically eat ram
 - If you want to change speeds of things like opening or waiting for loading of the windows, change it in the source and build it as an exe with pyinstaller, or just run it as a py file.
 - You are free to fork this as long as you credit me
-
-If you want to contact me hit me up at Syskey#2510 and if you want to donate to me, throw me some bitcoin at 1AdfMYWzsaQtZcq1FTymYATkFQCUanME27
-
-UI PREVIEW
-https://cdn.discordapp.com/attachments/1052184492653150209/1115758911593660516/L5SMJl6.png
